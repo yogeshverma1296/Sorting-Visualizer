@@ -1,12 +1,12 @@
 # Sorting-Visualizer
 A pictorial representation demonstrating how Data Structures and Algorithms can be used to sort any data.
 
+## Before Sorting
+![Before Sorting](https://raw.githubusercontent.com/yogeshverma1296/Sorting-Visualizer/refs/heads/main/img/beforesorting.png)
 
 
-![Screenshot 2023-01-07 162427](https://user-images.githubusercontent.com/74191100/211145941-92a66622-9fcd-4c67-9255-aef4b82652c3.png)
-
-https://medium.com/@bbabina/sorting-visualizer-aeed2276f750
-
+## After Sorting
+![After Sorting](https://raw.githubusercontent.com/yogeshverma1296/Sorting-Visualizer/refs/heads/main/img/aftersorting.png)
 
 # Visualization of the algorithms.
 The visualizer basically plays with colors to better understand what is happening in the algorithm. The data here is the bars that are generated randomly with arbitrary heights. 
